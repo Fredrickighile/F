@@ -4,7 +4,7 @@ import LocalAirportIcon from '@mui/icons-material/LocalAirport';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 import Button from './Button';
-import './NavBar.css';
+import './Navbar.css';
 
 
 
